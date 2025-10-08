@@ -1,9 +1,8 @@
-<h1 align="center">This is me Karrar nazim</h1>
+<h1 align="center">Karrar nazim</h1>
 <h3 align="center">I'm karrar, a web developer since 2022. I chose this path because life didn’t give me a better option. I build websites that reflect me: sometimes chaotic, sometimes brilliant, and they mostly work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandro00o&label=Profile%20views&color=0e75b6&style=flat" alt="sandro00o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandro00o" alt="sandro00o" /></a> </p>
 
 - All of my projects are available at [https://karrarnazim.space](https://karrarnazim.space)
 
