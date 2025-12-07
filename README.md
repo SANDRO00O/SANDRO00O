@@ -6,7 +6,7 @@
 
 - All of my projects are available at [https://karrarnazim.space](https://karrarnazim.space)
 
-- my blog [https://karrarnazim.space](https://karrarnazim.space)
+- my blog [https://karrarnazim.space/blog](https://karrarnazim.space/blog)
 
 - How to reach me? **https://karrarnazim.space**
 
