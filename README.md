@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandro00o&label=Profile%20views&color=0e75b6&style=flat" alt="sandro00o" /> </p>
 
-- My portfolio [https://karrarnazim.space](https://karrarnazim.space)
+- My portfolio [https://karrarnazim.pages.dev](https://karrarnazim.pages.dev)
 
 
-- All of my projects are available at [https://karrarnazim.space/projects](https://karrarnazim.space/projects)
+- All of my projects are available at [https://karrarnazim.pages.dev/projects](https://karrarnazim.pages.dev/projects)
 
-- My blog [https://karrarnazim.space/blog](https://karrarnazim.space/blog)
+- My blog [https://karrarnazim.pages.dev/blog](https://karrarnazim.pages.dev/blog)
 
-- How to reach me? [https://karrarnazim.space/profiles](https://karrarnazim.space/about)
+- How to reach me? [https://karrarnazim.pages.dev/profiles](https://karrarnazim.pages.dev/about)
 
-- Know about my experiences [https://karrarnazim.space/about](https://karrarnazim.space/about)
+- Know about my experiences [https://karrarnazim.pages.dev/about](https://karrarnazim.pages.dev/about)
 
 - Fun fact **I am good at what I do**
 
